@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+classes/
+
+# Maven build directory
+target/
+
+# Logs and temporary files
+*.log
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# === Важно ===
+# Не игнорировать pom.xml
+!pom.xml
